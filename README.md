@@ -155,4 +155,4 @@ dotnet publish -c Release
 
 ## License
 
-Add your preferred license (for example, MIT). If no `LICENSE` file exists yet, it is recommended to add one.
+Licensed under the MIT License. See [LICENSE](LICENSE).
